@@ -1,2 +1,2 @@
 # ADS2
-NP problem task
+Knapsack problem solution
